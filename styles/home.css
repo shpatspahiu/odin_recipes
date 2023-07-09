@@ -23,8 +23,8 @@ li {
 }
 
 .link-container {
-  margin-left: 320px;
-  margin-right: 320px;
+  width: 350px;
+  margin: 0 auto;
   background-color: antiquewhite;
   border-radius: 15px;
 }
@@ -48,8 +48,4 @@ a:active {
 
 a:hover {
   background-color: rgba(247, 143, 8, 0.5);
-}
-
-#odin-anchor:hover {
-  background-color: #fafafa00;
 }
